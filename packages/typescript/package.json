@@ -1,0 +1,30 @@
+{
+  "name": "@yutahaga/eslint-config-typescript",
+  "version": "0.0.0",
+  "description": "Eslint configuration for TypeScript",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutahaga/eslint-configs.git"
+  },
+  "keywords": [
+    "web",
+    "babel"
+  ],
+  "author": "Yuta Haga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yutahaga/eslint-configs/issues"
+  },
+  "homepage": "https://github.com/yutahaga/eslint-configs/packages/typescript#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-import-resolver-webpack": "^0.9.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-typescript": "^0.11.0",
+    "typescript-eslint-parser": "^15.0.0"
+  }
+}

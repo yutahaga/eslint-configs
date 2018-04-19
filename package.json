@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "jest --env node --runInBand",
+    "lint": "eslint --fix packages/**/*.js"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "projects": [
+      "<rootDir>",
+      "<rootDir>/packages/*"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "eslint --fix && git add"
+    }
+  },
+  "devDependencies": {
+    "babel-core": "^7.0.0-0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "husky": "^0.14.3",
+    "jest": "^22.4.3",
+    "lerna": "^2.9.1"
+  }
+}
