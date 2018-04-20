@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-flow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Eslint configuration for Flow",
   "main": "index.js",
   "publishConfig": {
