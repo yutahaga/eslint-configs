@@ -5,7 +5,7 @@ module.exports = {
     'plugin:flowtype/recommended',
   ],
   plugins: [
-    require.resolve('eslint-plugin-flowtype'),
+    'flowtype',
   ],
   settings: {
     'import/extensions': [

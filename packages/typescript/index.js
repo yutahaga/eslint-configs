@@ -6,7 +6,7 @@ module.exports = {
     require.resolve('eslint-config-airbnb-base'),
   ],
   plugins: [
-    require.resolve('eslint-plugin-typescript'),
+    'typescript',
   ],
   settings: {
     'import/extensions': [
