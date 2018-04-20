@@ -29,12 +29,6 @@ module.exports = {
     'import/no-extraneous-dependencies': 0,
     'no-duplicate-imports': 0,
     'space-infix-ops': 0,
-    'typescript/no-type-alias': {
-      allowAliases: 'in-unions-and-intersections',
-      allowCallbacks: true,
-      allowLiterals: 'in-unions-and-intersections',
-      allowMappedTypes: 'in-unions-and-intersections',
-    },
     'typescript/no-unused-vars': 'warn',
   },
 };
