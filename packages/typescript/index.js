@@ -1,30 +1,22 @@
 module.exports = {
-  parserOptions: {
-    parser: require.resolve('typescript-eslint-parser'),
-  },
-  extends: [
-    require.resolve('eslint-config-airbnb-base'),
-  ],
-  plugins: [
-    'typescript',
-  ],
+  parser: require.resolve('typescript-eslint-parser'),
+  extends: [require.resolve('eslint-config-airbnb-base')],
+  plugins: ['typescript'],
   settings: {
-    'import/extensions': [
-      '.js',
-      '.jsx',
-      '.mjs',
-      '.ts',
-      '.tsx',
-    ],
+    'import/extensions': ['.js', '.jsx', '.mjs', '.ts', '.tsx'],
   },
   rules: {
-    'import/extensions': ['error', 'always', {
-      js: 'never',
-      mjs: 'never',
-      jsx: 'never',
-      ts: 'never',
-      tsx: 'never',
-    }],
+    'import/extensions': [
+      'error',
+      'always',
+      {
+        js: 'never',
+        mjs: 'never',
+        jsx: 'never',
+        ts: 'never',
+        tsx: 'never',
+      },
+    ],
     'import/no-duplicates': 1,
     'import/no-extraneous-dependencies': 0,
     'no-duplicate-imports': 0,
