@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-flow",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Eslint configuration for Flow",
   "main": "index.js",
   "publishConfig": {
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/yutahaga/eslint-configs.git"
   },
-  "keywords": [
-    "web",
-    "babel"
-  ],
+  "keywords": ["web", "babel"],
   "author": "Yuta Haga",
   "license": "MIT",
   "bugs": {
