@@ -1,7 +1,7 @@
 {
-  "name": "@yutahaga/eslint-config-typescript",
+  "name": "@yutahaga/eslint-config-standard-all-in-one",
   "version": "1.0.0",
-  "description": "Eslint configuration for TypeScript",
+  "description": "Eslint all in one configuration for standard",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
@@ -19,10 +19,10 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/typescript#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/packages/standard-all-in-one#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.5.0",
-    "@typescript-eslint/parser": "^1.5.0",
-    "eslint-config-prettier": "^4.1.0"
+    "@yutahaga/eslint-config-prettier": "^1.0.0",
+    "@yutahaga/eslint-config-standard": "^1.0.0",
+    "@yutahaga/eslint-config-typescript": "^1.0.0"
   }
 }

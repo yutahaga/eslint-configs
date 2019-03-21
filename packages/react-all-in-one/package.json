@@ -1,0 +1,29 @@
+{
+  "name": "@yutahaga/eslint-config-react-all-in-one",
+  "version": "1.0.0",
+  "description": "Eslint all in one configuration for react.js",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutahaga/eslint-configs.git"
+  },
+  "keywords": [
+    "web",
+    "eslint-config"
+  ],
+  "author": "Yuta Haga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yutahaga/eslint-configs/issues"
+  },
+  "homepage": "https://github.com/yutahaga/eslint-configs/packages/react-all-in-one#readme",
+  "dependencies": {
+    "@yutahaga/eslint-config-prettier": "^1.0.0",
+    "@yutahaga/eslint-config-react": "^1.0.0",
+    "@yutahaga/eslint-config-standard": "^1.0.0",
+    "@yutahaga/eslint-config-typescript": "^1.0.0"
+  }
+}

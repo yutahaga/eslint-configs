@@ -1,7 +1,7 @@
 {
-  "name": "@yutahaga/eslint-config-typescript",
+  "name": "@yutahaga/eslint-config-prettier",
   "version": "1.0.0",
-  "description": "Eslint configuration for TypeScript",
+  "description": "Eslint configuration for prettier",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
@@ -19,10 +19,9 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/typescript#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/packages/prettier#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.5.0",
-    "@typescript-eslint/parser": "^1.5.0",
-    "eslint-config-prettier": "^4.1.0"
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1"
   }
 }

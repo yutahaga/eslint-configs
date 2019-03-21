@@ -1,7 +1,7 @@
 {
-  "name": "@yutahaga/eslint-config-typescript",
+  "name": "@yutahaga/eslint-config-babel",
   "version": "1.0.0",
-  "description": "Eslint configuration for TypeScript",
+  "description": "Eslint configuration for babel",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
@@ -19,10 +19,8 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/typescript#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/packages/babel#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.5.0",
-    "@typescript-eslint/parser": "^1.5.0",
-    "eslint-config-prettier": "^4.1.0"
+    "babel-eslint": "^10.0.1"
   }
 }
