@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./index', 'prettier/vue']
+  extends: ['./index.js', 'prettier/vue']
 }

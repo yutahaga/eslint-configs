@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./index', 'prettier/standard']
+  extends: ['./index.js', 'prettier/standard']
 }
