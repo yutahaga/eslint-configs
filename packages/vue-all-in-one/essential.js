@@ -1,5 +1,6 @@
 module.exports = {
   extends: [
+    'eslint:recommended',
     require.resolve('@yutahaga/eslint-config-standard/prettier'),
     require.resolve('@yutahaga/eslint-config-vue/essential/prettier'),
     require.resolve('@yutahaga/eslint-config-typescript/prettier'),

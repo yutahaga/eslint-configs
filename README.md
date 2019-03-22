@@ -55,9 +55,10 @@ module.exports = {
 ```js
 module.exports = {
   extends: [
+    'eslint:recommended',
     '@yutahaga/standard/prettier',
     '@yutahaga/typescript/prettier',
-    '@yutahaga/prettier' // "eslint:recommended" is included
+    '@yutahaga/prettier'
   ]
 }
 ```
