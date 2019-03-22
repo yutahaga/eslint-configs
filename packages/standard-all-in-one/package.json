@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-standard-all-in-one",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint all in one configuration for standard",
   "main": "index.js",
   "publishConfig": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/yutahaga/eslint-configs/packages/standard-all-in-one#readme",
   "dependencies": {
-    "@yutahaga/eslint-config-prettier": "^1.0.1",
+    "@yutahaga/eslint-config-prettier": "^1.0.2",
     "@yutahaga/eslint-config-standard": "^1.0.1",
     "@yutahaga/eslint-config-typescript": "^1.0.1"
   }
