@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['plugin:react/all', '../jsx']
+  extends: ['plugin:react/all']
 }

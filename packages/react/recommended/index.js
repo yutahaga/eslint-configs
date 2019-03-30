@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['plugin:react/recommended', '../jsx']
+  extends: ['plugin:react/recommended']
 }
