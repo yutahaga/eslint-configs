@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-react-all-in-one",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Eslint all in one configuration for react.js",
   "main": "index.js",
   "publishConfig": {

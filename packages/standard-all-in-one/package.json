@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-standard-all-in-one",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Eslint all in one configuration for standard",
   "main": "index.js",
   "publishConfig": {

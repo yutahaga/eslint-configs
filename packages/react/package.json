@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Eslint configuration for react",
   "main": "index.js",
   "publishConfig": {

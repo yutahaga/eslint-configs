@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-standard",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Eslint configuration for standard",
   "main": "index.js",
   "publishConfig": {

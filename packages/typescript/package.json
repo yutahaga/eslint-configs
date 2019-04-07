@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-typescript",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Eslint configuration for TypeScript",
   "main": "index.js",
   "publishConfig": {
