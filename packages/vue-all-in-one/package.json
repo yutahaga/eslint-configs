@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-vue-all-in-one",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Eslint all in one configuration for Vue.js",
   "main": "index.js",
   "publishConfig": {
