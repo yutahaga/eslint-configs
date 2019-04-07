@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-vue-all-in-one",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Eslint all in one configuration for Vue.js",
   "main": "index.js",
   "publishConfig": {
@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/vue-all-in-one#readme",
   "dependencies": {
-    "@yutahaga/eslint-config-prettier": "^1.0.4",
-    "@yutahaga/eslint-config-standard": "^1.0.4",
-    "@yutahaga/eslint-config-typescript": "^1.0.4",
-    "@yutahaga/eslint-config-vue": "^1.0.4"
+    "@yutahaga/eslint-config-prettier": "^1.0.5",
+    "@yutahaga/eslint-config-standard": "^1.0.5",
+    "@yutahaga/eslint-config-typescript": "^1.0.5",
+    "@yutahaga/eslint-config-vue": "^1.0.5"
   }
 }

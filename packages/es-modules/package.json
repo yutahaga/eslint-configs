@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/eslint-config-es-modules",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Eslint configuration for es-modules",
   "main": "index.js",
   "publishConfig": {
