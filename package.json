@@ -4,7 +4,13 @@
     "packages/*"
   ],
   "scripts": {
-    "lint": "eslint --fix packages/**/*.js"
+    "lint": "eslint --fix packages/**/*.js",
+    "updateSnapshot": "lerna run updateSnapshot",
+    "versionup": "lerna version --conventional-commits",
+    "versionup:patch": "lerna version patch --conventional-commits",
+    "versionup:minor": "lerna version minor --conventional-commits",
+    "versionup:major": "lerna version minor --conventional-commits",
+    "release": "lerna publish from-package"
   },
   "husky": {
     "hooks": {

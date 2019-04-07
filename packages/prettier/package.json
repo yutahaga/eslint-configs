@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/prettier#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/prettier#readme",
   "dependencies": {
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-prettier": "^3.0.1"

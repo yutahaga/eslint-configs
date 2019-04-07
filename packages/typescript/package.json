@@ -19,10 +19,10 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/typescript#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/typescript#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.5.0",
-    "@typescript-eslint/parser": "^1.5.0",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
     "eslint-config-prettier": "^4.1.0"
   }
 }

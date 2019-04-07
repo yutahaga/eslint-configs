@@ -19,11 +19,11 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/vue-all-in-one#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/vue-all-in-one#readme",
   "dependencies": {
-    "@yutahaga/eslint-config-prettier": "^1.0.2",
-    "@yutahaga/eslint-config-standard": "^1.0.1",
-    "@yutahaga/eslint-config-typescript": "^1.0.1",
-    "@yutahaga/eslint-config-vue": "^1.0.1"
+    "@yutahaga/eslint-config-prettier": "^1.0.4",
+    "@yutahaga/eslint-config-standard": "^1.0.4",
+    "@yutahaga/eslint-config-typescript": "^1.0.4",
+    "@yutahaga/eslint-config-vue": "^1.0.4"
   }
 }

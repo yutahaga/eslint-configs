@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/yutahaga/eslint-configs/issues"
   },
-  "homepage": "https://github.com/yutahaga/eslint-configs/packages/babel#readme",
+  "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/babel#readme",
   "dependencies": {
     "babel-eslint": "^10.0.1"
   }
