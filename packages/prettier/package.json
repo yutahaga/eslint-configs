@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/prettier#readme",
   "dependencies": {
-    "eslint-config-prettier": "^4.1.0",
+    "eslint-config-prettier": "^7.0.0",
     "eslint-plugin-prettier": "^3.0.1"
   }
 }

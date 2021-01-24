@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/react#readme",
   "dependencies": {
-    "eslint-config-prettier": "^4.1.0",
+    "eslint-config-prettier": "^7.0.0",
     "eslint-plugin-react": "^7.12.4"
   }
 }
