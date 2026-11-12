@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/yutahaga/eslint-configs/tree/master/packages/babel#readme",
   "dependencies": {
-    "babel-eslint": "^10.0.1"
+    "@babel/eslint-parser": "^7.11.0"
   }
 }
